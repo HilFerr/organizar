@@ -1,0 +1,5 @@
+1º defenir array(tela do jogo)
+2º pedir jogadas
+3º fazer um ciclo
+4º definir quem ganhou
+5º fazer uma opção de recomeçar ou sair

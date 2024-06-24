@@ -1,0 +1,17 @@
+#include <iostream>
+
+using namespace std;
+
+/** função de inicialização do programa **/
+int main() {
+
+    int resultado=0, numero = 0;
+    int numerosinseridos = 0;
+    float media = 0;
+    string somaTxt = "";
+
+    cout << "\nDiga qual o numero a somar: ";
+    cin >> numero;
+    if (numero != 0) {
+    }
+}
