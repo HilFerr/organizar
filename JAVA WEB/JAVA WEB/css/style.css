@@ -1,0 +1,49 @@
+* { 
+    /*font-size: 20px;*/ 
+    text-transform: uppercase;
+}
+
+.separador-topo {margin-top:20px;}
+
+h1 {
+    font-weight: normal;
+}
+
+.img-responsive {
+    width: 95%;
+    max-width: 400px;
+}
+
+.homebg {
+    background: #fff url("../img/Cuttie\ pie.jfif") no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 300px;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.gallery > div {
+    flex-grow: 2;
+    width: 50%;
+    max-width: 50%;
+}
+.gallery img {
+    width: 100%;
+    height: auto; /* use this to display responsive image */
+}
+
+/* Hero section */
+
+position: absolute;
+width: 1720px;
+height: 970px;
+left: 100px;
+top: 46px;
+
