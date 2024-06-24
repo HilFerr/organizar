@@ -1,0 +1,28 @@
+* {
+    font-size: 20px; /* text-transform: uppercase*/;
+}
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+    font-style: italic;
+    width: 200px;
+    height: 100px;
+}
+
+a {
+    font-family: Helvetica;
+}
+
+.separador-topo {
+    margin-top: 80px;
+}
+
+.img-responsive {
+    width: 95%;
+    max-width: 400px;
+}
+
+.bg-color {
+    background-color: #ff0404;
+}
