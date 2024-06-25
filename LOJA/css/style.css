@@ -60,6 +60,10 @@
   display: flex;
 }
 
+.space_top {
+  margin-top: 5px;
+}
+
 .container-fluid { position:relative }
 .jumbotron { position: absolute }
 .jumbotron { position: absolute; top: 20px; left: 10px; }
